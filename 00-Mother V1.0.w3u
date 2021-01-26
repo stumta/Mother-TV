@@ -1,0 +1,51 @@
+{
+	"name": "แม่ V1.0",
+	"author": "ทีวีสำหรับแม่",
+	"image": "http://docs.google.com/uc?export=dowload&id=1v6Ojt2LYFvpbI4Re3sKVuf77KkUsT424",
+	"url": "http://tiny.cc/MoTV",
+	
+	"groups": [
+	
+
+				{
+					"name": "01-ทีวี",
+					"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
+					"url": "https://raw.githubusercontent.com/stumta/Version-1.6/main/1.01-Digital%20TV%20V1.6.m3u",
+					"import": false
+				},	
+				
+				{
+					"name": "02-หนังไทย",
+					"image": "https://i.ytimg.com/vi/v_SvMvr6EbA/maxresdefault.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-1.6/main/4.03-Thai%20Movie.m3u",
+					"import": false
+				},	
+				
+				{
+					"name": "03-รายการทั่วไป",
+					"image": "https://f.ptcdn.info/611/069/000/qb54yim7x7IIj87hMql-o.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Mother-TV/main/03-General.m3u",
+					"import": false
+				},	
+				
+				{
+					"name": "04-ละคร",
+					"image": "https://f.ptcdn.info/611/069/000/qb54yim7x7IIj87hMql-o.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Mother-TV/main/04-Series.w3u",
+					"import": false
+				},	
+				
+					
+				
+					
+     					
+			]	
+				
+		},
+
+				
+			]
+			
+		
+    ]
+}
