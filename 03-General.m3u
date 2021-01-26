@@ -1,0 +1,126 @@
+
+#EXTM3U
+
+#=================================================== General ======================================================================
+
+# Update 16 Jnuary 2021
+
+#==================================================================================================================================
+
+
+#EXTINF:-1 group-title="General" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai
+http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai
+http://27.254.142.14/foxthai.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704752.jpeg",TRUE​ FILM
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704752.jpeg",TRUE​ FILM
+https://boxmovielive.com/live/FLA1.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704752.jpeg",TRUE​ FILM
+http://160.119.77.117/iptv/hd-tfilm.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",TrueThaiFilm
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",TrueThaiFilm
+https://boxmovielive.com/live/moviehits.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png",TrueThaiFilm
+https://doomovielive.b-cdn.net/sd-thaifilm_480/index.m3u8|Referer=https://doomovie.com
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-asianseries.png",TrueAsianSeries
+http://160.119.77.116:8081/iptv/hd-asian.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-asianseries.png",TrueAsianSeries
+https://boxmovielive.com/live/FLA1.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-asianseries.png",TrueAsianSeries
+https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://pbs.twimg.com/profile_images/437063716400418816/TJgYjZHT.png",Waku Waku Japan
+https://we-play.tv/watching/tv/waku-waku-japan
+
+#EXTINF:-1 group-title="General" tvg-logo="https://pbs.twimg.com/profile_images/437063716400418816/TJgYjZHT.png",Waku Waku Japan
+https://boxmovielive.com/live/waku.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-x-zyte.png",TrueX-ZYTE
+http://27.254.142.14/xzyte.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-x-zyte.png",TrueX-ZYTE
+http://160.119.77.117/iptv/hd-xzyte.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-x-zyte.png",TrueX-ZYTE
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvn.png",tvN
+http://27.254.142.14/tvN.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvn.png",tvN
+http://160.119.77.117/iptv/hd-tvn.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvn.png",tvN
+https://www.we-play.tv/watching/tv/tvn
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery Asia
+http://160.119.77.116:8081/iptv/hd-discovery.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery Asia
+https://we-play.tv/watching/tv/discovery-asia
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery Asia
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704667.jpeg",True Music
+https://www.livedoomovies.com/02_TRUEMUSIC_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704667.jpeg",True Music
+http://160.119.77.116:8081/iptv/sd-tmusic.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",Fan TV
+http://36.37.252.114:888/Apple/OneTV-038/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",Fan TV
+https://edge6a.v2h-cdn.com/m2i4/FanTV.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",Fan TV
+http://www.onlinethailand.net/tv_online/FAN-TV.php
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",MV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1898172485.m3u8
+
+
+#EXTINF:-1 group-title="General"tvg-logo="",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
