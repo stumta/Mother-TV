@@ -1,0 +1,43 @@
+{
+	"name": "04-ละคร",
+	"author": "Version 1.6 25 January 2021",
+	"image": "https://pbs.twimg.com/profile_images/951126627840217088/YtJNw6E1.jpg",
+	"url": "https://raw.githubusercontent.com/stumta/Mother-TV/main/04-Series.w3u",
+	"groups": [
+	
+
+							
+				{
+					"name": "4.1-รัก 100 วันของฉันและองค์ชาย",
+					"image": "https://img.pptvhd36.com/thumbor/2020/07/24/program-6577a04b01.jpg",
+					"url": "https://raw.githubusercontent.com/stumta/Version-1.6/main/5.05-100%20Days%20my%20Prince.m3u",
+					"import": false
+				},
+				
+				{
+					"name": "4.2-รอรักโรงแรมพันปี",
+					"image": "https://www.ellethailand.com/images/content/cover/2543",
+					"url": "https://raw.githubusercontent.com/stumta/Version-1.6/main/5.04-Hotel%20Del%20Luna.m3u",
+					"import": false
+				},	
+				
+				{
+					"name": "4.3-ก็อบลิน คําสาปรักผู้พิทักษ์วิญญาณ",
+					"image": "https://trueid-ugc-prod.imgix.net/partner_files/trueidintrend/174679/cover_63.jpg?auto=format",
+					"url": "https://raw.githubusercontent.com/stumta/Version-1.6/main/5.06-Guardian.m3u",
+					"import": false
+				},
+		
+
+					
+     					
+			]	
+				
+		},
+
+				
+			]
+			
+		
+    ]
+}
